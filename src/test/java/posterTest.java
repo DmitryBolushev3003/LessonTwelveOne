@@ -2,7 +2,7 @@ import org.example.posterManager;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class postersTest {
+public class posterTest {
 
     @Test
     public void testAllNullPosters() {
